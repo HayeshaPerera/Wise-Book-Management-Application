@@ -1,4 +1,6 @@
 WISE Book Shop 1.0
+
+
 WISE Book Shop 1.0 is a responsive and dynamic online bookstore application that enables users to manage a collection of books. The project is built using React, Node.js, and Express, with Axios for data fetching, offering a simple and effective solution for inventory management.
 
 Features
