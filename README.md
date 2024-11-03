@@ -41,10 +41,9 @@ Open your browser and go to http://localhost:3000 to view the app.
 API Endpoints
 GET /books: Fetch all books
 POST /books: Add a new book
-PUT /books/
-: Update a book
-DELETE /books/
-: Delete a book
+PUT /books/: Update a book
+DELETE /books/: Delete a book
+
 Project Structure
 client/: Contains the React frontend
 server/: Contains the Node.js and Express backend
